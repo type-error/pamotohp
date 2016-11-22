@@ -1,7 +1,6 @@
-## pamotohp : custom photo viewer + frame ##
+## pamotohp : custom photo viewer + frame ###
 * photo viewer mode : 맵 모드, 타일 모드, 슬라이드 모드
 * frame : 나무 프레임
-<hr/>
 
 ## Server
 * web framework
