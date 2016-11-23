@@ -21,7 +21,7 @@
       5. findByLandmark
 
 * google drive synchronizer
-  ~~1. google 계정 연동(토큰 정보 저장)~~
+  1. google 계정 연동(토큰 정보 저장)
   2. maven build로 dependencies포함하여 jar생성
   3. google drive에 있는 사진정보를 elastic engine에 추가
   4. 변경되는 사진이 있는지 주기적으로 확인하여 elastic engine에 반영
