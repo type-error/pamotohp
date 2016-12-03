@@ -34,3 +34,9 @@
 
 ## Hardware
 * Raspberrypi 3
+* micro sd card 64gb mlc
+* usb 차량용 시거잭
+* hdmi to dvi
+* 나무 재단 : http://www.paintinfo.co.kr/ 
+* 인두기
+* 스위치 모듈
